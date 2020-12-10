@@ -1,0 +1,256 @@
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->The->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->Gettysburg->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->The->speech->NULL
+Printing list after insert
+dummy->President->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->by->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->It->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->in->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->by(2)->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->known->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->U.S.->NULL
+Printing list after insert
+dummy->is(2)->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->The->speech->one->NULL
+Printing list after insert
+dummy->for->NULL
+Printing list after insert
+dummy->is(2)->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->Lincoln,->NULL
+Printing list after insert
+dummy->Civil->NULL
+Printing list after insert
+dummy->Lincoln,->great->NULL
+Printing list after insert
+dummy->Gettysburg->Abraham->NULL
+Printing list after insert
+dummy->U.S.->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->U.S.->us(2)->NULL
+Printing list after insert
+dummy->be->NULL
+Printing list after insert
+dummy->Lincoln,->great->remaining->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->that->NULL
+Printing list after insert
+dummy->a->NULL
+Printing list after insert
+dummy->a->take->NULL
+Printing list after insert
+dummy->The->speech->one->here->NULL
+Printing list after insert
+dummy->is(2)->NULL
+Printing list after insert
+dummy->Lincoln->NULL
+Printing list after insert
+dummy->for(2)->dedicated->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->Civil->task->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->in->during->NULL
+Printing list after insert
+dummy->Civil->task->gave->NULL
+Printing list after insert
+dummy->President->NULL
+Printing list after insert
+dummy->The->speech->one->here->NULL
+Printing list after insert
+dummy->that(3)->NULL
+Printing list after insert
+dummy->delivered->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->be->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->rather->NULL
+Printing list after insert
+dummy->Gettysburg->Abraham->before->NULL
+Printing list after insert
+dummy->rather->shall->NULL
+Printing list after insert
+dummy->U.S.->us(2)->from->NULL
+Printing list after insert
+dummy->rather->shall->have->NULL
+Printing list after insert
+dummy->Lincoln->cause->NULL
+Printing list after insert
+dummy->by(2)->American(2)->NULL
+Printing list after insert
+dummy->for(2)->dedicated->which->NULL
+Printing list after insert
+dummy->known->War,->NULL
+Printing list after insert
+dummy->by(2)->American(2)->nation,->NULL
+Printing list after insert
+dummy->delivered->highly->NULL
+Printing list after insert
+dummy->President->NULL
+Printing list after insert
+dummy->U.S.->us(2)->from->died->NULL
+Printing list after insert
+dummy->It(2)->was->NULL
+Printing list after insert
+dummy->best->NULL
+Printing list after insert
+dummy->President->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->a(2)->take->increased->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->a(2)->take->increased->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->a(2)->take->increased->NULL
+Printing list after insert
+dummy->Gettysburg->Abraham->before->NULL
+Printing list after insert
+dummy->U.S.->us(2)->from->died->freedom->NULL
+Printing list after insert
+dummy->Address->NULL
+Printing list after insert
+dummy->President->of(4)->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->Lincoln,(2)->great->remaining->honored->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->they->NULL
+Printing list after insert
+dummy->best(2)->government->NULL
+Printing list after insert
+dummy->Gettysburg(2)->Abraham(2)->before->not(2)->NULL
+Printing list after insert
+dummy->Gettysburg(2)->Abraham(2)->before->not(2)->November->NULL
+Printing list after insert
+dummy->be->these(2)->NULL
+Printing list after insert
+dummy->last->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->be->these(2)->1863,->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->they->afternoon->NULL
+Printing list after insert
+dummy->that(6)->we(2)->NULL
+Printing list after insert
+dummy->last->at->NULL
+Printing list after insert
+dummy->rather->shall(3)->have(2)->vain->NULL
+Printing list after insert
+dummy->President(2)->of(7)->earth.->NULL
+Printing list after insert
+dummy->The(2)->speech(2)->one(2)->here(2)->devotion(2)->NULL
+Printing list after insert
+dummy->It(3)->was(2)->NULL
+Printing list after insert
+dummy->rather->shall(3)->have(2)->vain->Gettysburg,->NULL
+Printing list after insert
+dummy->that(6)->we(2)->National->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->NULL
+Printing list after insert
+dummy->best(2)->government->Thursday,->NULL
+Printing list after insert
+dummy->Lincoln,(2)->great->remaining->honored->on->NULL
+Printing list after insert
+dummy->history.(2)->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->best(2)->government->Thursday,->armies->NULL
+Printing list after insert
+dummy->Address(2)->NULL
+Printing list after insert
+dummy->resolve->NULL
+Printing list after insert
+dummy->Civil(2)->task->gave->measure->NULL
